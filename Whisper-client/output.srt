@@ -1,0 +1,616 @@
+1
+00:00:00,000 --> 00:00:05,120
+Alright, so have you ever asked yourself the question of why Linux and why programmers seem to prefer Linux
+
+2
+00:00:05,120 --> 00:00:09,920
+and why Linux just seems to be really hyped among developers? This is a question that I've asked
+
+3
+00:00:09,920 --> 00:00:14,640
+myself in the past and especially before starting to use Linux and before starting to learn more
+
+4
+00:00:14,640 --> 00:00:19,520
+about Linux. And so I figured as with like most of the videos that I make on this channel that
+
+5
+00:00:19,520 --> 00:00:23,360
+if I've had that question in the past then there's probably a decent chance that you're having it
+
+6
+00:00:23,360 --> 00:00:28,160
+or have had it too. So that is the question that I'll be answering in today's video which is
+
+7
+00:00:28,160 --> 00:00:30,160
+why Linux. So let's go.
+
+8
+00:00:47,600 --> 00:00:52,720
+Oh and if you're sitting there and you're thinking where did he get that sick hoodie from,
+
+9
+00:00:52,720 --> 00:00:54,960
+you can get yourself one at calstore.com.
+
+10
+00:00:54,960 --> 00:00:59,920
+Okay, so what is it that actually makes Linux really popular among programmers? Well,
+
+11
+00:00:59,920 --> 00:01:04,080
+the answer is that there's actually lots of things but I'm going to go through the major ones that
+
+12
+00:01:04,080 --> 00:01:08,960
+I've found that are generally accepted among programmers as like what makes Linux really great
+
+13
+00:01:09,520 --> 00:01:14,080
+and from what I've found there's about seven things that programmers in general appreciate about
+
+14
+00:01:14,080 --> 00:01:20,560
+Linux. So let's go through them. The first one is security. This simply means that Linux tends to be
+
+15
+00:01:20,560 --> 00:01:25,520
+a safer system. So you won't need anti-virus software and viruses overall just aren't really an
+
+16
+00:01:25,520 --> 00:01:30,240
+issue. So it's a really secure system and you won't get bothered by needing to find and pay for
+
+17
+00:01:30,240 --> 00:01:36,240
+anti-virus software and then update that software and get notified by it etc. Linux just works and
+
+18
+00:01:36,240 --> 00:01:41,200
+is safe. The reason that Linux is really secure is because of the fact that the Linux operating system
+
+19
+00:01:41,200 --> 00:01:45,760
+is open source. This means that anyone who wants to can look at the source code for the system
+
+20
+00:01:45,760 --> 00:01:49,440
+and if you aren't familiar with this concept then this may sound like it would be the
+
+21
+00:01:49,440 --> 00:01:54,800
+opposite of safe since anyone can find vulnerabilities and create viruses for it or exploit the
+
+22
+00:01:54,800 --> 00:01:59,840
+vulnerabilities really easily and that's not wrong. Anyone can do that and a lot of people do try to
+
+23
+00:01:59,840 --> 00:02:04,640
+do this but the thing is that Linux is a really popular operating system and so that means that
+
+24
+00:02:04,640 --> 00:02:09,200
+there's so many people reading through the source code every day and like looking for these
+
+25
+00:02:09,200 --> 00:02:13,840
+vulnerabilities so that they can patch them themselves because of the fact that they are actually
+
+26
+00:02:13,840 --> 00:02:18,480
+using the system themselves so they don't want these vulnerabilities there and so they try to fix
+
+27
+00:02:18,480 --> 00:02:23,440
+them and so what ends up happening is that there's actually very very few of these vulnerabilities out
+
+28
+00:02:23,440 --> 00:02:28,960
+there and the ones that are out there it become really really hard to find because so many people
+
+29
+00:02:28,960 --> 00:02:33,680
+are actually looking for them and that also means that even if there are a few bad people out there
+
+30
+00:02:33,680 --> 00:02:39,200
+looking for these flaws and trying to exploit them in a bad way for every bad person that's out there
+
+31
+00:02:39,200 --> 00:02:44,960
+trying to find these flaws there's potentially like a thousand good people out there looking for
+
+32
+00:02:44,960 --> 00:02:50,560
+the exact same flaw and trying to eliminate it and so that kind of results in a really safe system.
+
+33
+00:02:50,560 --> 00:02:56,000
+The second reason is that Linux can improve your programming workflow. The package manager in Linux
+
+34
+00:02:56,000 --> 00:03:01,040
+is a godsend for programmers in terms of efficiency if you want to install something or use something
+
+35
+00:03:01,040 --> 00:03:07,200
+new just type in pseudo app get install whatever you want to use and then within a couple of seconds
+
+36
+00:03:07,200 --> 00:03:12,240
+or a minute or two you get it and you're ready to rock. This is something that can sometimes be
+
+37
+00:03:12,240 --> 00:03:17,760
+painstakingly difficult in other operating systems. First of all you need to install a package manager
+
+38
+00:03:17,760 --> 00:03:22,720
+in macOS and windows if you want to have a good reliable one and just doing that can be a difficult
+
+39
+00:03:22,720 --> 00:03:28,480
+task for a beginner with Linux that just comes pre-installed and you're ready to go and it also has
+
+40
+00:03:28,480 --> 00:03:33,120
+a lot of packages already installed and set up. All right so let's take a really simple example
+
+41
+00:03:33,120 --> 00:03:37,840
+here that kind of illustrates both point number one about security and also point number two
+
+42
+00:03:37,840 --> 00:03:43,360
+about ease of use and just workflow in general. So let's say that you wanted to install VLC media
+
+43
+00:03:43,360 --> 00:03:48,720
+player on your windows machine. What you'd have to do is you'd have to first open up a web browser
+
+44
+00:03:48,720 --> 00:03:54,720
+of some kind then you'd have to find or like Google search for VLC media player find the right
+
+45
+00:03:54,720 --> 00:04:00,000
+actual website to actually download it go to that website press the download link started
+
+46
+00:04:00,000 --> 00:04:07,360
+to download it run the xc file and then choose whatever like installation location and then after you've
+
+47
+00:04:07,360 --> 00:04:12,640
+done all that you potentially also need to restart your computer for these like changes to take
+
+48
+00:04:12,640 --> 00:04:16,800
+effect or for you to be able to actually use the program. Now let's say that you wanted to do
+
+49
+00:04:16,800 --> 00:04:21,680
+that exact same thing but in Linux all you'd have to do is open up a terminal window and type in
+
+50
+00:04:21,680 --> 00:04:29,680
+pseudo apt get install VLC and hit enter and then you're done. The windows approach leaves a lot
+
+51
+00:04:29,680 --> 00:04:34,800
+of room for errors to occur you could get to the wrong site and accidentally download malware
+
+52
+00:04:34,800 --> 00:04:40,480
+or you could get to the right site but accidentally press one of the thousands of download now buttons
+
+53
+00:04:40,480 --> 00:04:44,960
+that is actually an ad for something completely different compared to Linux where you just type it
+
+54
+00:04:44,960 --> 00:04:49,600
+in and it automatically does everything for you making sure to get it from the right source so you
+
+55
+00:04:49,600 --> 00:04:54,480
+won't accidentally get the wrong thing or malware as a programmer we usually work with lots of
+
+56
+00:04:54,480 --> 00:04:59,040
+different technologies and we're installing things constantly to get things to work so making the
+
+57
+00:04:59,040 --> 00:05:04,480
+process of installing stuff as easy and safe as possible is really important and Linux does this
+
+58
+00:05:04,480 --> 00:05:11,200
+really well. Oh and while we're on the topic this video is sponsored by kite. Kite is a free
+
+59
+00:05:11,200 --> 00:05:16,160
+auto completion engine that uses machine learning to provide the completions which is what makes it
+
+60
+00:05:16,160 --> 00:05:21,440
+stand out and also what makes it the best auto completion engine that I've used. One of the most
+
+61
+00:05:21,440 --> 00:05:26,640
+useful features is that kites completions are sorted or ranked by relevance instead of by popularity
+
+62
+00:05:26,640 --> 00:05:32,080
+or by the alphabet. This is possible because they're using machine learning to provide the completions.
+
+63
+00:05:32,080 --> 00:05:36,880
+It means that you will get suggested completions based on the code that you're actually writing and if
+
+64
+00:05:36,880 --> 00:05:41,920
+you're writing code in Python the co-pilot feature offers documentation look up so you don't have to
+
+65
+00:05:41,920 --> 00:05:46,960
+constantly google search function signatures and call patterns. With kite you can actually write
+
+66
+00:05:46,960 --> 00:05:53,040
+code up to 18% faster and who doesn't want to write code faster right so I highly recommend that
+
+67
+00:05:53,040 --> 00:05:58,400
+you download kite and try it out it's completely free and supports up to 13 programming languages
+
+68
+00:05:58,400 --> 00:06:05,360
+and 16 IDEs so just give it a go I know that you will like it because I love it. The third reason is
+
+69
+00:06:05,360 --> 00:06:10,080
+no rebooting. This is something that I touched on in the previous point when I was explaining about
+
+70
+00:06:10,080 --> 00:06:14,320
+how installing something in windows might work and how at the end of that process you might end up
+
+71
+00:06:14,320 --> 00:06:19,920
+having to restart the entire computer just to be able to work with whatever it was you installed
+
+72
+00:06:19,920 --> 00:06:25,200
+and this is not the case with linux and in fact with linux it's to the point where you can update the
+
+73
+00:06:25,200 --> 00:06:31,600
+entire operating system without having to actually reboot and this is neither possible with macOS
+
+74
+00:06:31,600 --> 00:06:36,880
+nor with windows and it's something that I think is really important because of the fact that as a
+
+75
+00:06:36,880 --> 00:06:41,760
+programmer we tend to install lots of different things and so the ability to just be able to install
+
+76
+00:06:41,760 --> 00:06:47,200
+something without then having to reboot the entire machine for those changes to take effect
+
+77
+00:06:47,200 --> 00:06:51,680
+is something that I think is really important. When doing research for this video I found an article
+
+78
+00:06:51,680 --> 00:06:56,480
+on tech mint that talks about why linux is often used for servers and this no rebooting point was
+
+79
+00:06:56,480 --> 00:07:00,880
+one of the reasons according to the article why linux is used for servers this is something that they
+
+80
+00:07:00,880 --> 00:07:05,600
+touch on in a part of the article where they talk about the fact that linux is built for stability
+
+81
+00:07:05,600 --> 00:07:10,560
+and reliability. Many linux servers on the internet have been running for years without failure
+
+82
+00:07:10,560 --> 00:07:16,000
+or even being restarted. The fourth reason is that linux actually comes with a ton of really powerful
+
+83
+00:07:16,000 --> 00:07:22,560
+programming tools pre-installed things like grip, wget, cron and lots of other things that once you
+
+84
+00:07:22,560 --> 00:07:27,760
+learn how they work can be extremely powerful tools that again can help you improve your workflow.
+
+85
+00:07:27,760 --> 00:07:32,000
+This is a point that's highly individual and it really depends on your specific use case because
+
+86
+00:07:32,000 --> 00:07:37,200
+there's so many pre-installed tools that come with linux and it also depends on what specific
+
+87
+00:07:37,200 --> 00:07:42,800
+distro of linux you choose to go with because certain distros come with certain extra tools like
+
+88
+00:07:42,800 --> 00:07:48,240
+collie linux for instance comes with a lot of hacking specific tools and so going through all of that
+
+89
+00:07:48,240 --> 00:07:54,080
+would be an entire standalone video series and I may do that in the future but I won't do that for
+
+90
+00:07:54,080 --> 00:07:58,000
+now but what I will do is I will leave a link in the description to an article that I found on a
+
+91
+00:07:58,000 --> 00:08:02,400
+Ubuntu pit where they go through some of the most commonly used tools in linux and what they're
+
+92
+00:08:02,400 --> 00:08:07,440
+really useful for so if you feel like learning a little bit more about these tools you can check that out.
+
+93
+00:08:07,440 --> 00:08:13,280
+Number five on our list is task automation. linux is almost built for automation of tasks. I'm not
+
+94
+00:08:13,280 --> 00:08:18,960
+an advanced user yet I'm still learning and exploring the wonders of linux but more experienced
+
+95
+00:08:18,960 --> 00:08:24,240
+linux users who also know how to code rarely need to do anything twice because of the fact that linux
+
+96
+00:08:24,240 --> 00:08:29,440
+lends itself really well for automation a pretty common thing in the linux community is something
+
+97
+00:08:29,440 --> 00:08:34,400
+referred to as one liners which is often used to refer to short little scripts that you write to
+
+98
+00:08:34,400 --> 00:08:38,560
+automate a task you may find yourself doing three things in a row every morning as you start up
+
+99
+00:08:38,560 --> 00:08:43,040
+your computer maybe you always open up Spotify to play a certain playlist and then you open up your
+
+100
+00:08:43,040 --> 00:08:47,760
+latest project that you're working on and then you open up Discord by the way check out our
+
+101
+00:08:47,760 --> 00:08:52,480
+Discord community link in the description with linux it's very easy to write a quick little
+
+102
+00:08:52,480 --> 00:08:57,040
+script to automate all of these tasks with a simple cron job or something like that there are lots
+
+103
+00:08:57,040 --> 00:09:01,360
+of pre-installed tools like we talked about in our previous point that lend themselves really
+
+104
+00:09:01,360 --> 00:09:08,160
+well to automation the sixth point is performance and no linux is not necessarily faster than any other
+
+105
+00:09:08,160 --> 00:09:13,200
+operating system but it is very lightweight for an OS and it's compatible with pretty much any
+
+106
+00:09:13,200 --> 00:09:18,080
+machine you can find you can run linux on almost anything so this means that you can very often
+
+107
+00:09:18,080 --> 00:09:23,200
+take an old laptop that is virtually useless because of being so slow and install linux on that
+
+108
+00:09:23,200 --> 00:09:28,000
+machine and all of a sudden breathe new life into that a machine that was impossible to work with
+
+109
+00:09:28,000 --> 00:09:33,040
+before is now all of a sudden working really well there are more performance benefits of linux like
+
+110
+00:09:33,040 --> 00:09:38,560
+the reliability of the systems and other things like that but I feel like this is like the major one
+
+111
+00:09:38,560 --> 00:09:43,920
+like being able to revive a dead computer is something that's really useful I think and it's
+
+112
+00:09:43,920 --> 00:09:49,040
+also really like environmentally friendly because it means that your laptop running linux will last
+
+113
+00:09:49,040 --> 00:09:55,200
+you so much longer than one running macOS or windows okay so number seven is a bit of an odd one
+
+114
+00:09:55,200 --> 00:10:00,080
+but it is that linux actually provides you with useful error messages this may sound a little
+
+115
+00:10:00,080 --> 00:10:05,200
+weird or whatever but it is really important because with windows and macOS where you can often
+
+116
+00:10:05,200 --> 00:10:11,840
+find yourself stuck with it's an error message along the lines of like oops something went wrong
+
+117
+00:10:11,840 --> 00:10:16,480
+and it's not very useful because like googling that and like finding the actual answer to that
+
+118
+00:10:16,480 --> 00:10:21,120
+question is really difficult because lots of different other people have had that same error
+
+119
+00:10:21,120 --> 00:10:25,920
+message for lots of different things but with linux instead what you'll get is a full readout
+
+120
+00:10:25,920 --> 00:10:31,600
+of the actual processes and you'll get like proper you'll actually see what actually happened
+
+121
+00:10:31,600 --> 00:10:36,160
+and that means that it's way easier to actually google that and find an answer to your specific
+
+122
+00:10:36,160 --> 00:10:41,280
+problem and that is something that's really important especially for programmers when you're
+
+123
+00:10:41,280 --> 00:10:46,320
+running into these errors constantly now this also comes with a caveat that a beginner might not
+
+124
+00:10:46,320 --> 00:10:50,480
+find that much help from these error messages at least not if they've never spent time in a terminal
+
+125
+00:10:50,480 --> 00:10:55,200
+like interface because for a beginner this can be very intimidating and just seem like a bunch
+
+126
+00:10:55,200 --> 00:10:59,520
+of text that all says the same thing but once you've spent some time in a terminal these error
+
+127
+00:10:59,520 --> 00:11:04,400
+messages are super useful all right so secret point number eight this is one that i didn't really
+
+128
+00:11:04,400 --> 00:11:09,200
+want to include in the main seven points because of the fact that i don't think that it quite
+
+129
+00:11:09,200 --> 00:11:14,640
+belongs in the seven points i don't think that it's a good reason to choose linux over windows
+
+130
+00:11:14,640 --> 00:11:20,320
+and macOS but i do think that it's a reason that a lot of linux users kind of like to use so i
+
+131
+00:11:20,320 --> 00:11:26,000
+wanted to include it in the list anyway and so point number eight is customization and the thing
+
+132
+00:11:26,000 --> 00:11:30,160
+about linux is that you can pretty much customize anything and because of the fact that it's open
+
+133
+00:11:30,160 --> 00:11:34,960
+source you can essentially like it's limitless because you can write your own customizations for it
+
+134
+00:11:34,960 --> 00:11:39,280
+so you can really actually customize everything and i think that this is something that programmers
+
+135
+00:11:39,280 --> 00:11:44,320
+tend to care about a lot like customizations and making your environment your own so i think
+
+136
+00:11:44,320 --> 00:11:47,840
+that it's something that's really important to programmers but like i said i don't think that
+
+137
+00:11:47,840 --> 00:11:53,600
+it's a reason to choose linux over macOS or windows it's not an actual benefit it's just like a
+
+138
+00:11:53,600 --> 00:11:59,120
+appearance benefits i guess there could be like benefits of it where you set up the environment to
+
+139
+00:11:59,120 --> 00:12:05,120
+be more productive for you because you can customize certain things but overall i don't think that it's
+
+140
+00:12:05,120 --> 00:12:10,000
+a major point to why you should choose linux over windows and macOS but yeah it is a really
+
+141
+00:12:10,000 --> 00:12:14,880
+interesting point and once you start going down the rabbit hole that is like linux customization
+
+142
+00:12:14,880 --> 00:12:19,680
+you'll quickly realize that you can spend an entire lifetime there all right so in conclusion
+
+143
+00:12:19,680 --> 00:12:23,920
+there really aren't that many things that you can do on linux that are impossible to do on other
+
+144
+00:12:23,920 --> 00:12:29,840
+systems especially if compared with macOS but the overarching theme is ease of use as a rule it's
+
+145
+00:12:29,840 --> 00:12:35,200
+easier to do what you want to do on linux than it is to do on other operating systems so should you
+
+146
+00:12:35,200 --> 00:12:40,160
+switch to linux the answer that i like to give here is that you should probably try out linux first
+
+147
+00:12:40,160 --> 00:12:44,560
+in a virtual machine and then see what you think of it and then you can kind of go from there
+
+148
+00:12:44,560 --> 00:12:49,520
+because that's what i did that's how i got started i started out with a virtual machine
+
+149
+00:12:49,520 --> 00:12:54,880
+and then after a while i just found myself spending more and more time there than i did in my main
+
+150
+00:12:54,880 --> 00:13:01,440
+OS and especially for like programming related tasks that was just so much smoother to do in linux
+
+151
+00:13:01,440 --> 00:13:07,280
+than it was to do in my main OS at the time and so that's kind of my advice that's how i would go
+
+152
+00:13:07,280 --> 00:13:13,280
+about it and yeah that's it for this one i hope i was able to answer the question of why program
+
+153
+00:13:13,280 --> 00:13:19,360
+ers tend to use linux over other operating systems and yeah that's it for this one i hope you enjoyed it
+
+154
+00:13:19,360 --> 00:13:46,080
+i hope i'll see you in the next one
+
